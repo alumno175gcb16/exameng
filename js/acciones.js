@@ -38,7 +38,7 @@ $(document).ready(function(e){
 	 
 	 //Correcto: Toma una captura de la aceleracion
 	 //
-	 function Correct(acceleration) {
+	 function Correcto(acceleration) {
 		 var element = document.getElementById('acelerometro');
 		 
 		 element.innerHTML = 'Aceleracion en X: ' + acceleration.x + '<br />' +
