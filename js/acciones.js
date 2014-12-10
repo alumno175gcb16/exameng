@@ -63,7 +63,7 @@ $(document).ready(function(e){
 							 'Precision de altitud: ' + posicion.coords.altitudeAccuracy  + '<br />' +
 							 'Direccion: '            + posicion.coords.heading           + '<br />' +
 							 'Velocidad: '            + posicion.coords.speed             + '<br />' +
-							 'Intervalo: '            + posicion.coords.timstamp          + '<br />';
+							 'Intervalo: '            + posicion.coords.timestamp          + '<br />';
 	 }
 	 
 	      //Error en la geolocalizacion
