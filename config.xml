@@ -16,7 +16,7 @@
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Abraham Noé Péres de Jesús
+        Sharon Itzel
     </author>
 	
         <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
